@@ -1,0 +1,5 @@
+font-family: "Computer Modern Bright", sans-serif;
+font-family: "Computer Modern Concrete", sans-serif;
+font-family: "Computer Modern Sans", sans-serif;
+font-family: "Computer Modern Serif", sans-serif;
+font-family: "Computer Modern Typewriter", sans-serif;
